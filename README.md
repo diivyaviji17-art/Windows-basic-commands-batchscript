@@ -23,7 +23,9 @@ Execute the necessary commands/batch file for the desired output.
 # WINDOWS COMMANDS:
 ## Exercise 1: Basic Directory and File Operations
 Create a directory named "my-folder"
+```
 mkdir my-folder
+```
 <img width="511" height="61" alt="Screenshot 2026-03-17 000845" src="https://github.com/user-attachments/assets/7874adf2-4bd5-4a70-b794-a9415be50c50" />
 
 ## COMMAND AND OUTPUT
