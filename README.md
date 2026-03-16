@@ -136,6 +136,7 @@ pause
 
 ## OUTPUT
 <img width="825" height="255" alt="Screenshot 2026-03-17 002342" src="https://github.com/user-attachments/assets/cd135235-e333-40e7-992f-e168e7cbdaba" />
+
 Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1 to 5) and displays each number with the label Number:. The output should pause at the end.
 
 ## CODE
@@ -148,6 +149,7 @@ pause
 ```
 ## OUTPUT
 <img width="564" height="195" alt="Screenshot 2026-03-17 002503" src="https://github.com/user-attachments/assets/80ca47e3-b347-4fcc-b6f7-7e27316580d2" />
+
 Write a batch script to check whether a file named sample.txt exists in the current directory. If the file exists, display the message sample.txt exists. Otherwise, display sample.txt does not exist. Pause the script at the end to view the result.
 ## CODE
 ```
@@ -167,6 +169,7 @@ Expected Output (if the file exists):
 
 ## OUTPUT
 <img width="536" height="66" alt="Screenshot 2026-03-17 002633" src="https://github.com/user-attachments/assets/b44c9d44-d138-4c88-bebc-06efe75bd200" />
+
 Write a batch script that displays a simple menu with three options:
 Say Hello – Displays the message Hello, World!
 Create a File – Creates a file named newfile.txt with the content This is a new file
