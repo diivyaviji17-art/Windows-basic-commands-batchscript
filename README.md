@@ -212,10 +212,13 @@ exit
 ```
 ## OUTPUT1
 <img width="521" height="251" alt="Screenshot 2026-03-17 002828" src="https://github.com/user-attachments/assets/9e42ad76-796b-4610-9447-777c5849ddb3" />
+
 ## OUTPUT2
 <img width="543" height="242" alt="Screenshot 2026-03-17 002910" src="https://github.com/user-attachments/assets/4aca3df7-c250-4638-8cb8-5d526fd91f30" />
+
 ## OUTPUT3
 <img width="535" height="232" alt="Screenshot 2026-03-17 003009" src="https://github.com/user-attachments/assets/d0566471-c239-4c01-87ca-b8b0bd6f1bc7" />
+
 # RESULT:
 The commands/batch files are executed successfully.
 
