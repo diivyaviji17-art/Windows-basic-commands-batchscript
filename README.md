@@ -30,43 +30,59 @@ mkdir my-folder
 
 ## COMMAND AND OUTPUT
 Remove the directory "my-folder"
+```
 rmdir my-folder
+```
 <img width="508" height="58" alt="Screenshot 2026-03-17 001001" src="https://github.com/user-attachments/assets/5451ff46-a2af-44a9-a680-d159e7c04f47" />
 
 ## COMMAND AND OUTPUT
 Create the file Rose.txt
+```
 type nul > Rose.txt
+```
 <img width="547" height="66" alt="Screenshot 2026-03-17 001116" src="https://github.com/user-attachments/assets/faf684da-b06f-41ae-b8cc-378e4e0ad125" />
 
 ## COMMAND AND OUTPUT
 Create the file hello.txt using echo and redirection
+```
 echo Hello World > hello.txt
+```
 <img width="695" height="63" alt="Screenshot 2026-03-17 001224" src="https://github.com/user-attachments/assets/28fd2269-8f3a-465b-8a8b-b7da699a5f94" />
 
 ## COMMAND AND OUTPUT
 Copy the file hello.txt into the file hello1.txt
+```
 copy hello.txt hello1.txt
+```
 <img width="614" height="75" alt="Screenshot 2026-03-17 001328" src="https://github.com/user-attachments/assets/57251ff8-dfaa-4fa5-ae9c-78d8f05c36e3" />
 
 ## COMMAND AND OUTPUT
 Remove the file hello1.txt
+```
 del hello1.txt
+```
 <img width="484" height="53" alt="Screenshot 2026-03-17 001447" src="https://github.com/user-attachments/assets/303c5373-1f33-4179-a955-2d73c7a6e66f" />
 
 ## COMMAND AND OUTPUT
 List out the file hello1.txt in the current directory
+```
 dir hello1.txt
+```
 <img width="544" height="223" alt="Screenshot 2026-03-17 001539" src="https://github.com/user-attachments/assets/aa3fb7bf-3c35-4b08-9812-0f0ddc3e3a16" />
 
 ## COMMAND AND OUTPUT
 List out all the associated file extensions 
+```
 assoc
+```
 <img width="772" height="783" alt="Screenshot 2026-03-17 001742" src="https://github.com/user-attachments/assets/5687fa70-c789-491b-a07f-122ede51760d" />
 <img width="771" height="321" alt="Screenshot 2026-03-17 001759" src="https://github.com/user-attachments/assets/4a445156-b268-4dd4-bbdc-23ed8c5b7179" />
 
 ## COMMAND AND OUTPUT
 Compare the file hello.txt and rose.txt
+```
 fc hello.txt Rose.txt
+```
 <img width="674" height="189" alt="Screenshot 2026-03-17 001926" src="https://github.com/user-attachments/assets/5162a3fe-1b55-4ccf-b945-7d273d037fa8" />
 
 ## COMMAND AND OUTPUT
