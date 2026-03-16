@@ -97,7 +97,8 @@ echo Hello, %name%
 pause
 ```
 ## OUTPUT
-<img width="621" height="97" alt="Screenshot 2026-03-17 002145" src="https://github.com/user-attachments/assets/d1982f1a-fa7a-41e6-bcf2-d2333296bcd4" />
+<img width="621" height="97" alt="Screenshot 2026-03-17 002145" src="https://github.com/user-attachments/assets/d1982f1a-fa7a-41e6-bcf2-d2333296bcd4" /> 
+
 Create a batch file  on the desktop that checks whether a user-input number is odd or not. The script should:
 Prompt the user to enter a number.
 Calculate the remainder when the number is divided by 2.
